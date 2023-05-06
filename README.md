@@ -10,3 +10,4 @@ HuggingFaceにデモもあります。
 https://huggingface.co/spaces/nekoniii3/Image_Upscaling
 
 ※StabilityAIが運営する[DreamStudio](https://beta.dreamstudio.ai/)よりAPIキーを取得して実行してください。
+※Gradio_Sample.ipynbは動画で使用したサンプルです
